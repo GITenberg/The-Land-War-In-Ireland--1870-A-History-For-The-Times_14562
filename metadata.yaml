@@ -1,0 +1,27 @@
+_repo: The-Land-War-In-Ireland--1870-A-History-For-The-Times_14562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Godkin, James
+    birthdate: 1806
+    deathdate: 1879
+    gutenberg_agent_id: '5576'
+    url: http://www.gutenberg.org/2009/agents/5576
+description: ''
+gutenberg_issued: '2005-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Land tenure -- Ireland'
+- !lcc 'HD'
+- !lcsh 'Ireland -- Economic conditions'
+title: 'The Land-War in Ireland: A History for the Times'
+url: http://www.gutenberg.org/ebooks/14562
